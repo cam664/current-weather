@@ -1,0 +1,27 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cam664/current-weather.git"
+  },
+  "author": "Cameron Laing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cam664/current-weather/issues"
+  },
+  "homepage": "https://github.com/cam664/current-weather#readme",
+    "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-plumber": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest"
+  }
+}
